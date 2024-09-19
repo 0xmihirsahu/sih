@@ -120,12 +120,11 @@ const Header = () => {
                   fontFamily="Cursive, sans-serif"
                   fill={`${theme === "dark" ? "white" : "black"}`}
                 >
-                  Pryvate
+                  Nexis
                 </text>
               </Link>
             </svg>
           </span>
-
           <div className="hidden md:flex gap-8">
             <div className={`flex items-center gap-4 text-lg font-bold rounded-lg px-4 py-0 hover:text-primary ${pathname === "/interaction" ? "underline decoration-primary underline-offset-3 font-black bg-zinc-900": ""} hover:bg-zinc-900`}>
               <Link href="/interaction">App</Link>

@@ -11,7 +11,7 @@ export default function Home() {
             <div className="">
               <div className="absolute w-full h-full blur-3xl rounded-full"/>
               <div className="flex flex-col gap-3 justify-center items-center">
-                <span className="dark:text-white font-bold text-black z-30 text-5xl">Nexis</span>
+                <span className="dark:text-white font-bold text-black z-30 text-5xl">Pryvate</span>
               <span className="dark:text-gray-300 text-wrap text-center font-medium text-black z-30 w-3/4 ">A privacy preserving masker that allow users to hide Personal Identification Information data from their documents and keep their privacy without revealing any sensitive information.</span>
               </div>
               </div>

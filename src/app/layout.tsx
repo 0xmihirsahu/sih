@@ -10,7 +10,7 @@ import Header from "@/components/Header";
 const inconsolata = Inconsolata({ subsets: ["latin",  "latin-ext"] })
 
 export const metadata: Metadata = {
-  title: "Nexis",
+  title: "Pryvate",
   description: "Mask it",
 }
 

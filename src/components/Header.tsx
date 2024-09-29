@@ -120,7 +120,7 @@ const Header = () => {
                   fontFamily="Cursive, sans-serif"
                   fill={`${theme === "dark" ? "white" : "black"}`}
                 >
-                  Nexis
+                  Pryvate
                 </text>
               </Link>
             </svg>
